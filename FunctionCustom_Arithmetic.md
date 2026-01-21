@@ -9,7 +9,6 @@ End Function
 ```
 ###
 ###
-###
 ### Subtraction
 ```vba
 Function Subtraction(A As Integer, B As Integer) As Integer
