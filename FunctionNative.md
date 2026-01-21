@@ -10,7 +10,6 @@ Sub DebugPrintLiteral()
     Debug.Print 3.14
 End Sub
 ```
-#### Result
 ```vba
 1 
 Hello World
@@ -31,6 +30,11 @@ Sub DebugPrintVariable()
     Debug.Print name
     Debug.Print pi
 End Sub
+```
+```vba
+ 10 
+Excel
+ 3,14159
 ```
 ### Debug Print Expressions
 ```vba
