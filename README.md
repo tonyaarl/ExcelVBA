@@ -11,7 +11,7 @@ Excel VBA Quick Reference Library
   - Reference
 
 ## License
-  - MIT License ([full text](LICENSE))
+  - MIT License ([See License](LICENSE))
 
 ## Note
   - Feel free to adapt the library for your own projects
