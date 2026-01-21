@@ -8,8 +8,6 @@ Function Addition(A As Integer, B As Integer) As Integer
 End Function
 ```
 <pre>
-
-    
 </pre>
 ### Subtraction
 ```vba
