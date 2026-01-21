@@ -10,6 +10,11 @@ Sub DebugPrintLiteral()
     Debug.Print 3.14
 End Sub
 ```
+```vba
+ 1 
+Hello World
+ 3,14
+```
 ### Debug Print Variables
 ```vba
 Sub DebugPrintVariable()
