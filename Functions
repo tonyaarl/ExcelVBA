@@ -1,0 +1,9 @@
+Option Explicit
+
+Sub Execute()
+    Call Addition
+End Sub
+
+Function Addition(A As Integer, B As Integer) As Integer
+    Addition = A + B
+End Function
