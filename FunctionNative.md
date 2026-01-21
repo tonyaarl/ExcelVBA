@@ -42,7 +42,8 @@ Sub DebugPrintExpressions()
     Dim a As Integer, b As Integer
     a = 5
     b = 3
-    
+
+    Debug.Print a, b
     Debug.Print a + b
     Debug.Print a * b
     Debug.Print "Sum: " & (a + b)
@@ -50,10 +51,12 @@ Sub DebugPrintExpressions()
 End Sub
 ```
 ```vba
+5             3 
 8 
 15 
 Sum: 8
 Product: 15
+
 ```
 ### Debug Print Array
 ```vba
@@ -69,15 +72,8 @@ Sub DebugPrintArray()
     Next i
 End Sub
 ```
-### Debug Print Mixed Variables
 ```vba
-Sub DebugPrintMixed()
-    Dim x As Integer
-    Dim msg As String
-    
-    x = 7
-    msg = "Lucky number is:"
-    
-    Debug.Print msg, x
-End Sub
+Element 1 = 5
+Element 2 = 10
+Element 3 = 20
 ```
