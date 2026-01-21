@@ -2,7 +2,7 @@
 
 ## Debug Functions
 
-### Debug.Print
+### Debug Print Literals
 ```vba
 Sub DebugPrintLiteral()
     Debug.Print 1
@@ -10,6 +10,7 @@ Sub DebugPrintLiteral()
     Debug.Print 3.14
 End Sub
 ```
+### Debug Print Variables
 ```vba
 Sub DebugPrintVariable()
     Dim x As Integer
@@ -25,6 +26,7 @@ Sub DebugPrintVariable()
     Debug.Print pi
 End Sub
 ```
+### Debug Print Expressions
 ```vba
 Sub DebugPrintExpressions()
     Dim a As Integer, b As Integer
@@ -37,6 +39,7 @@ Sub DebugPrintExpressions()
     Debug.Print "Product: " & (a * b)
 End Sub
 ```
+### Debug Print Array
 ```vba
 Sub DebugPrintArray()
     Dim arr(1 To 3) As Integer
@@ -50,6 +53,7 @@ Sub DebugPrintArray()
     Next i
 End Sub
 ```
+### Debug Print Mixed Variables
 ```vba
 Sub DebugPrintMixed()
     Dim x As Integer
