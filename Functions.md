@@ -1,4 +1,8 @@
-```Option Explicit
+```
+
+Data Types
+
+Option Explicit
 
 Sub Execute()
     Call Addition
