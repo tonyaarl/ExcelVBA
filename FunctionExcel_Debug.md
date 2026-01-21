@@ -1,6 +1,6 @@
 # Excel VBA Native Functions
 
-## Debug Functions
+## Debug Print
 
 ### Debug Print Literals
 ```vba
@@ -77,3 +77,4 @@ Element 1 = 5
 Element 2 = 10
 Element 3 = 20
 ```
+## Debug Assert
