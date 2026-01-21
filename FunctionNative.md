@@ -10,8 +10,8 @@ Sub DebugPrintLiteral()
     Debug.Print 3.14
 End Sub
 ```
+#### Result
 ```vba
-## Output:
 1 
 Hello World
 3,14
