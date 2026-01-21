@@ -15,6 +15,7 @@ End Sub
 Hello World
 3,14
 ```
+&nbsp;
 ### Debug Print Variables
 ```vba
 Sub DebugPrintVariable()
@@ -36,6 +37,7 @@ End Sub
 Excel
 3,14159
 ```
+&nbsp;
 ### Debug Print Expressions
 ```vba
 Sub DebugPrintExpressions()
@@ -56,8 +58,8 @@ End Sub
 15 
 Sum: 8
 Product: 15
-
 ```
+&nbsp;
 ### Debug Print Array
 ```vba
 Sub DebugPrintArray()
