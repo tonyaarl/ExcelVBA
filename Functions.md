@@ -1,5 +1,4 @@
-```
-
+```vba
 Data Types
 
 Option Explicit
@@ -11,3 +10,8 @@ End Sub
 Function Addition(A As Integer, B As Integer) As Integer
     Addition = A + B
 End Function
+```
+
+```
+test 2
+```
