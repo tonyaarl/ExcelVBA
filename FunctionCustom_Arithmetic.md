@@ -7,7 +7,10 @@ Function Addition(A As Integer, B As Integer) As Integer
     Addition = A + B
 End Function
 ```
-`<p>`
+<pre>
+
+    
+</pre>
 ### Subtraction
 ```vba
 Function Subtraction(A As Integer, B As Integer) As Integer
