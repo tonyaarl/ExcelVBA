@@ -11,9 +11,10 @@ Sub DebugPrintLiteral()
 End Sub
 ```
 ```vba
- 1 
+## Output:
+1 
 Hello World
- 3,14
+3,14
 ```
 ### Debug Print Variables
 ```vba
