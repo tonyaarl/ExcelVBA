@@ -1,25 +1,33 @@
 # Excel VBA Custom Functions
 
 ## Arithmetic
-
 ### Addition
 ```vba
 Function Addition(A As Integer, B As Integer) As Integer
     Addition = A + B
 End Function
 ```
+
+
+
 ### Subtraction
 ```vba
 Function Subtraction(A As Integer, B As Integer) As Integer
     Subtraction = A - B
 End Function
 ```
+
+
+
 ### Multiplication
 ```vba
 Function Multiplication(A As Integer, B As Integer) As Integer
     Multiplication = A * B
 End Function
 ```
+
+
+
 ### Division
 ```vba
 Function Division(A As Integer, B As Integer) As Integer
