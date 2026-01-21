@@ -7,21 +7,21 @@ Function Addition(A As Integer, B As Integer) As Integer
     Addition = A + B
 End Function
 ```
-<br>
+&nbsp;
 ### Subtraction
 ```vba
 Function Subtraction(A As Integer, B As Integer) As Integer
     Subtraction = A - B
 End Function
 ```
-</br>
+&nbsp;
 ### Multiplication
 ```vba
 Function Multiplication(A As Integer, B As Integer) As Integer
     Multiplication = A * B
 End Function
 ```
-
+&nbsp;
 ### Division
 ```vba
 Function Division(A As Integer, B As Integer) As Integer
