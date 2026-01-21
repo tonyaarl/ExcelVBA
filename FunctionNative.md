@@ -32,9 +32,9 @@ Sub DebugPrintVariable()
 End Sub
 ```
 ```vba
- 10 
+10 
 Excel
- 3,14159
+3,14159
 ```
 ### Debug Print Expressions
 ```vba
@@ -48,6 +48,12 @@ Sub DebugPrintExpressions()
     Debug.Print "Sum: " & (a + b)
     Debug.Print "Product: " & (a * b)
 End Sub
+```
+```vba
+8 
+15 
+Sum: 8
+Product: 15
 ```
 ### Debug Print Array
 ```vba
