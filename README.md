@@ -14,4 +14,4 @@
   - Feel Free To Fork And Adapt This Library For Your Own Use
 
 ### License
-  - MIT License ([See License](LICENSE))
+  - MIT License ([See License?color=red](LICENSE))
