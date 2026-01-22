@@ -16,3 +16,4 @@
 ### License
   - MIT License [![Licensecolor=red]](LICENSE)
 
+[![License](https://google.com?color=red)](LICENSE)
