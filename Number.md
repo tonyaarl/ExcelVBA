@@ -1,4 +1,4 @@
-# Excel VBA Custom Functions
+# Number
 
 ## Arithmetic
 ### Addition
