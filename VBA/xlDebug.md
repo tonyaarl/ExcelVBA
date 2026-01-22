@@ -5,7 +5,7 @@
     - [Expressions](#Expressions)
     - [Array](#Array)
 - [Debug Assert](#Debug-Assert)
-    - [Variable](#Variable)
+    - [Assert](#Assert)
 &nbsp;
 ## Debug Print
 > ### Literals
@@ -89,7 +89,7 @@ Element 2 = 10
 Element 3 = 20
 ```
 ## Debug Assert
-> ### Variable
+> ### Assert
 ```vba
 Sub DebugAssert()
     Dim x As Boolean
