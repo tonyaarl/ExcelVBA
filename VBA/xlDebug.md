@@ -5,7 +5,7 @@
     - [Expressions](#Expressions)
     - [Array](#Array)
 - [Debug Assert](#Debug-Assert)
-    - [Assert](#Assert)
+    - [Assertion](#Assertion)
     - [Condition](#Condition)
 &nbsp;
 ## Debug Print
@@ -92,15 +92,15 @@ Element 2 = 10
 Element 3 = 20
 ```
 ## Debug Assert
-> ### Assert
+> ### Assertion
 ```vba
-Sub DebugAssert()
+Sub DebugAssertion()
     Dim x As Boolean
 
     x = True
-    Debug.Assert x  ' Assertion Will Not Trigger, and Continue:   ' x = True
+    Debug.Assert x  ' Assertion Pass: Continue
     x = False
-    Debug.Assert x  ' Assertion Will Trigger and Pause Execution: ' x = False
+    Debug.Assert x  ' Assertion Fail: Pause Execution
 End Sub
 ```
 > ### Condition
