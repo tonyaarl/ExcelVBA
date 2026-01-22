@@ -9,9 +9,9 @@ Sub DebugPrintLiteral()
 End Sub
 ```
 ```vba
- 1 
+ 1
 Hello World
- 3,14 
+ 3,14
 ```
 > ### Debug Print Variables
 ```vba
@@ -30,9 +30,9 @@ Sub DebugPrintVariable()
 End Sub
 ```
 ```vba
-10 
+ 10
 Excel
-3,14159
+ 3,14159
 ```
 > ### Debug Print Expressions
 ```vba
@@ -49,9 +49,9 @@ Sub DebugPrintExpressions()
 End Sub
 ```
 ```vba
-5             3 
-8 
-15 
+ 5             3
+ 8
+ 15
 Sum: 8
 Product: 15
 ```
