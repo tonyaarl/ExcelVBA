@@ -1,4 +1,4 @@
-# Microsoft Excel Visual Basic of Applications
+# Microsoft Excel Visual Basic for Applications
 ## Reference Library
 ### Content
   > Syntax
