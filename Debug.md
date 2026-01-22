@@ -21,20 +21,24 @@ Sub DebugPrintVariable()
     Dim x As Integer
     Dim name As String
     Dim pi As Double
+    Dim isValid As Boolean
     
     x = 10
     name = "Excel"
     pi = 3.14159
+    isValid = False
     
     Debug.Print x
     Debug.Print name
     Debug.Print pi
+    Debug.Print isValid
 End Sub
 ```
 ```vba
- 10
+ 10 
 Excel
- 3,14159
+ 3,14159 
+False
 ```
 > ### Debug Print Expressions
 ```vba
