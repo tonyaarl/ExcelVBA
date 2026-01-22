@@ -120,13 +120,12 @@ End Sub
 > ### Division
 ```vba
 Sub DebugAssertDivision()
-    Debug.Print Division(10, 0)
+    Debug.Print Division(10, 0)     ' Pass 0 to Denominator Parameter
 End Sub
 
 Function Division(Numerator As Integer, Denominator As Integer) As Double
-    Debug.Assert Denominator <> 0
+    Debug.Assert Denominator <> 0   ' This Should Never Happen, Ever!
 
     Division = Numerator / Denominator
 End Function
-
 ```
