@@ -8,9 +8,7 @@
   > Macros
 ### Purpose
   > Practice
-  
-  > Reference
 ### Note
-  > Feel Free To Fork And Adapt This Library For Your Own Use
+  > Feel Free To Fork
 ### License
   > [MIT License](LICENSE)
