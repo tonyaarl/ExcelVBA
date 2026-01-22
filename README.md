@@ -1,5 +1,5 @@
 # Microsoft Excel Visual Basic of Applications
-## Excel VBA Quick Reference Library
+## Reference Library
 
 ### Contents
   - Syntax
