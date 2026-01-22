@@ -98,9 +98,9 @@ Sub DebugAssert()
     Dim x As Boolean
 
     x = True
-    Debug.Assert x  ' Assertion Will Not Trigger: x = True
+    Debug.Assert x  ' Assertion Will Not Trigger and Continue:    ' x = True
     x = False
-    Debug.Assert x  ' Assertion Will Trigger:     x = false
+    Debug.Assert x  ' Assertion Will Trigger and Pause Execution: ' x = False
 End Sub
 ```
 > ### Condition
@@ -111,8 +111,8 @@ Sub DebugAssertCondition()
     x = 10
     
     '  x Always Expected to be Positive
-    If x > 0 Then
-        Debug.Assert x > 0     ' Pause Execution Only If x <= 0
-    End If                     ' This Should Never Happen, Ever!
+    If x >= 0 Then
+        Debug.Assert x >= 0     ' Pause Execution Only If x < 0
+    End If                      ' x Should Never Be Negative
 End Sub
 ```
