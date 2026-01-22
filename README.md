@@ -1,17 +1,17 @@
-# ExcelVBA
-Excel VBA Quick Reference Library
+# Excel Visual Basic of Applications
+## Excel VBA Quick Reference Library
 
-## Contents
+### Contents
   - Syntax
   - Functions
   - Macros
 
-## Purpose
+### Purpose
   - Practice
   - Reference
 
-## License
+### License
   - MIT License ([See License](LICENSE))
 
-## Note
-  - Feel free to adapt the library for your own projects
+### Note
+  - Feel Free to Adapt the Library for Your Own Projects
