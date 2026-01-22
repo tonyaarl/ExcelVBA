@@ -1,6 +1,6 @@
 # Number
 ## Arithmetic
-### > Addition
+> ### Addition
 ```vba
 Function Addition(A As Integer, B As Integer) As Integer
     Addition = A + B
