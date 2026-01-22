@@ -1,5 +1,5 @@
 # Syntax
-## Option
+## Compiler Directives
 ### Explicit
 ```vba
 Option Explicit
