@@ -1,6 +1,6 @@
 # Debug
-#### [Debug Print](#Debug-Print-Literals)
-##### [Debug Print Literals](#Debug-Print-Variables)
+- [Debug Print](#Debug-Print-Literals)
+    - [Debug Print Literals](#Debug-Print-Variables)
 ## Debug Print
 > ### Debug Print Literals
 ```vba
