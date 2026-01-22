@@ -5,7 +5,7 @@
     - [Expressions](#Expressions)
     - [Array](#Array)
 - [Debug Assert](#Debug-Assert)
-    - [Assertion](#Assertion)
+    - [Test](#Test)
     - [Condition](#Condition)
 &nbsp;
 ## Debug Print
@@ -92,9 +92,9 @@ Element 2 = 10
 Element 3 = 20
 ```
 ## Debug Assert
-> ### Assertion
+> ### Test
 ```vba
-Sub DebugAssertion()
+Sub DebugAssertTest()
     Dim x As Boolean
 
     x = True
