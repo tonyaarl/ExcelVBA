@@ -1,4 +1,4 @@
-# Excel Visual Basic of Applications
+# Microsoft Excel Visual Basic of Applications
 ## Excel VBA Quick Reference Library
 
 ### Contents
