@@ -1,5 +1,4 @@
 # Number
-
 ## Arithmetic
 ### Addition
 ```vba
