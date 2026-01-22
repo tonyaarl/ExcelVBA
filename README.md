@@ -15,4 +15,3 @@
 
 ### License
   > [MIT License](LICENSE)
-  ![Static Badge](https://img.shields.io/badge/MIT%20License?style=plastic)
