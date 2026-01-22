@@ -5,7 +5,9 @@
 ```vba
 Option Explicit
 ```
+&nbsp;
 ```Force Variable Declaration```
+&nbsp;
 ### Compare Binary
 ```vba
 Option Compare Binary 
