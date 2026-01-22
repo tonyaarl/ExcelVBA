@@ -7,6 +7,7 @@
 - [Debug Assert](#Debug-Assert)
     - [Test](#Test)
     - [Condition](#Condition)
+    - [Division](#Division)
 &nbsp;
 ## Debug Print
 > ### Literals
@@ -115,4 +116,17 @@ Sub DebugAssertCondition()
         Debug.Assert x >= 0     ' Pause Execution Only If x < 0
     End If                      ' x Should Never Be Negative
 End Sub
+```
+> ### Division
+```vba
+Sub DebugAssertDivision()
+    Debug.Print Division(10, 0)
+End Sub
+
+Function Division(Numerator As Integer, Denominator As Integer) As Double
+    Debug.Assert Denominator <> 0
+
+    Division = Numerator / Denominator
+End Function
+
 ```
