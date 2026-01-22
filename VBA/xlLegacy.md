@@ -1,5 +1,6 @@
 # Legacy
-## Type Declaration Characters
+## Variables
+> ### Type Declaration Characters
 ```vba
 ' Requires Implicit Declaration - No 'Option Explicit'
 Sub Legacy()
