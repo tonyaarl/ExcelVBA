@@ -1,12 +1,12 @@
 # Debug
-- [Debug Print](#Debug-Print-Literals)
-    - [Debug Print Literals](#Debug-Print-Literals)
-    - [Debug Print Variables](#Debug-Print-Variables)
-    - [Debug Print Expressions](#Debug-Print-Expressions)
-    - [Debug Print Array](#Debug-Print-Array)
+- [Debug Print](#Debug-Print)
+    - [Literals](#Literals)
+    - [Variables](#Variables)
+    - [Expressions](#Expressions)
+    - [Array](#Array)
 - [Debug Assert](#Debug-Assert)
 ## Debug Print
-> ### Debug Print Literals
+> ### Literals
 ```vba
 Sub DebugPrintLiteral()
     Debug.Print 1
@@ -21,7 +21,7 @@ Hello World
  3,14 
 True
 ```
-> ### Debug Print Variables
+> ### Variables
 ```vba
 Sub DebugPrintVariable()
     Dim x As Integer
@@ -46,7 +46,7 @@ Excel
  3,14159 
 False
 ```
-> ### Debug Print Expressions
+> ### Expressions
 ```vba
 Sub DebugPrintExpressions()
     Dim a As Integer, b As Integer
@@ -67,7 +67,7 @@ End Sub
 Sum: 8
 Product: 15
 ```
-> ### Debug Print Array
+> ### Array
 ```vba
 Sub DebugPrintArray()
     Dim arr(1 To 3) As Integer
