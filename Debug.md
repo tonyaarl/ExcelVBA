@@ -1,7 +1,5 @@
 # Debug
-
 ## Debug Print
-
 ### Debug Print Literals
 ```vba
 Sub DebugPrintLiteral()
