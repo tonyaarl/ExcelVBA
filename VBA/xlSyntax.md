@@ -1,5 +1,5 @@
 # Syntax
-## Compiler Directives
+## Compiler Module Directives
 > ### Force Variable Declaration
 ```vba
 Option Explicit
