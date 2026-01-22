@@ -110,9 +110,9 @@ Sub DebugAssertCondition()
     
     x = 10
     
-    ' Example Where Variable x is Always Expected to be Positive
+    '  x Always Expected to be Positive
     If x > 0 Then
-        Debug.Assert x > 0     ' Assertion Will Not Trigger Because Condition is True
-    End If                     ' This Should Never Happen, Ever! If it Does, Assertion Will Trigger!
+        Debug.Assert x > 0     ' Pause Execution Only If x <= 0
+    End If                     ' This Should Never Happen, Ever!
 End Sub
 ```
