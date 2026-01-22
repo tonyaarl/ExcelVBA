@@ -1,31 +1,31 @@
 # Syntax
 ## Compiler Directives
 &nbsp;
-### Explicit - Force Variable Declaration
+### Force Variable Declaration
 ```vba
 Option Explicit
 ```
-### Compare Binary
+### String Case-Sensitive Comparison
 ```vba
 Option Compare Binary 
 ```
 &nbsp;
-### Compare Text
+### String Case-Insensitive Comparison
 ```vba
 Option Compare Text
 ```
 &nbsp;
-### Base 0
+### Array Start Index: 0
 ```vba
 Option Base 0
 ```
 &nbsp;
-### Base 1
+### Array Start Index: 1
 ```vba
 Option Base 1
 ```
 &nbsp;
-### Private Module
+### Force Module Private
 ```vba
 Option Private Module
 ```
