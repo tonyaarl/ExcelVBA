@@ -30,7 +30,7 @@ Sub DebugPrintVariable()
     Dim name As String
     Dim pi As Double
     Dim isValid As Boolean
-    
+
     x = 10
     name = "Excel"
     pi = 3.14159
@@ -52,6 +52,7 @@ False
 ```vba
 Sub DebugPrintExpressions()
     Dim a As Integer, b As Integer
+
     a = 5
     b = 3
 
@@ -74,10 +75,11 @@ Product: 15
 Sub DebugPrintArray()
     Dim arr(1 To 3) As Integer
     Dim i As Integer
+
     arr(1) = 5
     arr(2) = 10
     arr(3) = 20
-    
+
     For i = 1 To 3 Step 1
         Debug.Print "Element " & i & " = " & arr(i)
     Next i
@@ -93,6 +95,7 @@ Element 3 = 20
 ```vba
 Sub DebugAssert()
     Dim x As Boolean
+
     x = True
     Debug.Assert x
     x = False
