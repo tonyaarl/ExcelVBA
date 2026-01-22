@@ -98,9 +98,9 @@ Sub DebugAssert()
     Dim x As Boolean
 
     x = True
-    Debug.Assert x
+    Debug.Assert x  ' Assertion Will Not Trigger: x = True
     x = False
-    Debug.Assert x
+    Debug.Assert x  ' Assertion Will Trigger:     x = false
 End Sub
 ```
 > ### Condition
