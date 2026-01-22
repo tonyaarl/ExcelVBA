@@ -1,7 +1,7 @@
 # Debug
 ## Debug Print
-- [Title 1](#Debug Print Literals)
-- [Title 2](#Debug Print Variables)
+## [Title 1](#Debug-Print-Literals)
+## [Title 2](#Debug-Print-Variables)
 > ### Debug Print Literals
 ```vba
 Sub DebugPrintLiteral()
