@@ -1,7 +1,6 @@
 # Debug
 ## Debug Print
-&nbsp;
-### Debug Print Literals
+> ### Debug Print Literals
 ```vba
 Sub DebugPrintLiteral()
     Debug.Print 1
@@ -14,8 +13,7 @@ End Sub
 Hello World
 3,14
 ```
-&nbsp;
-### Debug Print Variables
+> ### Debug Print Variables
 ```vba
 Sub DebugPrintVariable()
     Dim x As Integer
@@ -36,8 +34,7 @@ End Sub
 Excel
 3,14159
 ```
-&nbsp;
-### Debug Print Expressions
+> ### Debug Print Expressions
 ```vba
 Sub DebugPrintExpressions()
     Dim a As Integer, b As Integer
@@ -58,8 +55,7 @@ End Sub
 Sum: 8
 Product: 15
 ```
-&nbsp;
-### Debug Print Array
+> ### Debug Print Array
 ```vba
 Sub DebugPrintArray()
     Dim arr(1 To 3) As Integer
