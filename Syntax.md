@@ -2,10 +2,10 @@
 ## Compiler Directives
 &nbsp;
 ### Explicit
-#### Force Variable Declaration
 ```vba
 Option Explicit
 ```
+#### Force Variable Declaration
 &nbsp;
 ### Compare Binary
 ```vba
