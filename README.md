@@ -3,8 +3,8 @@
 
 ### Content
   - Syntax
-  - Functions
-  - Macros
+  * Functions
+  + Macros
 
 ### Purpose
   - Practice
