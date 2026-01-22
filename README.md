@@ -2,16 +2,16 @@
 ## Reference Library
 
 ### Content
-  ⬩ Syntax
-  ⬩ Functions
-  ⬩ Macros
+  - Syntax
+  - Functions
+  - Macros
 
 ### Purpose
-  ⬩ Practice
-  ⬩ Reference
+  - Practice
+  - Reference
 
 ### Note
-  ⬩ Feel Free To Fork And Adapt This Library For Your Own Use
+  - Feel Free To Fork And Adapt This Library For Your Own Use
 
 ### License
-  ⬩ MIT License ([See License](LICENSE))
+  - MIT License ([See License](LICENSE))
