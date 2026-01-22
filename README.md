@@ -14,4 +14,5 @@
   > Feel Free To Fork And Adapt This Library For Your Own Use
 
 ### License
-  > MIT License [License](LICENSE)
+  > [MIT License](LICENSE)
+  ![Static Badge](https://img.shields.io/badge/MIT%20License?style=plastic)
