@@ -2,8 +2,7 @@
 ## Variables
 > ### Type Declaration Characters
 ```vba
-' Requires Implicit Declaration - No 'Option Explicit'
-Sub Legacy()
+Sub Legacy()    ' Requires Implicit Declaration - No 'Option Explicit'
     a% = 1      ' % Integer
     b& = 2      ' & Long
     c! = 3      ' ! Single
