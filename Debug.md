@@ -1,6 +1,6 @@
 # Debug
 - [Debug Print](#Debug-Print-Literals)
-    - [Debug Print Literals](#Debug-Print-Variables)
+    - [Debug Print Literals](#Debug-Print-Literals)
     - [Debug Print Variables](#Debug-Print-Variables)
     - [Debug Print Expressions](#Debug-Print-Expressions)
     - [Debug Print Array](#Debug-Print-Array)
