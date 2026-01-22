@@ -4,9 +4,8 @@
 ### Explicit
 ```vba
 Option Explicit
-
-Force Variable Declaration
 ```
+> Force Variable Declaration
 &nbsp;
 ### Compare Binary
 ```vba
