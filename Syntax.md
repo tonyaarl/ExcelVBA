@@ -5,6 +5,7 @@
 ```vba
 Option Explicit
 ```
+&nbsp;
 ### String Case-Sensitive Comparison
 ```vba
 Option Compare Binary 
