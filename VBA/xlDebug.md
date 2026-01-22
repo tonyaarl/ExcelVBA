@@ -6,6 +6,7 @@
     - [Array](#Array)
 - [Debug Assert](#Debug-Assert)
     - [Assert](#Assert)
+    - [Condition](#Condition)
 &nbsp;
 ## Debug Print
 > ### Literals
@@ -100,5 +101,18 @@ Sub DebugAssert()
     Debug.Assert x
     x = False
     Debug.Assert x
+End Sub
+```
+> ### Condition
+```vba
+Sub DebugAssertCondition()
+    Dim x As Integer
+    
+    x = 10
+    
+    ' Example Where Variable x is Always Expected to be Positive
+    If x > 0 Then
+        Debug.Assert x <= 0     ' Assertion Will Trigger Because Condition is False
+    End If
 End Sub
 ```
