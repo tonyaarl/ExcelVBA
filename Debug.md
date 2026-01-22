@@ -6,12 +6,14 @@ Sub DebugPrintLiteral()
     Debug.Print 1
     Debug.Print "Hello World"
     Debug.Print 3.14
+    Debug.Print True
 End Sub
 ```
 ```vba
- 1
+ 1 
 Hello World
- 3,14
+ 3,14 
+True
 ```
 > ### Debug Print Variables
 ```vba
