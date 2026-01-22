@@ -1,3 +1,6 @@
+# Legacy
+## Type Declaration Characters
+```vba
 ' Requires Implicit Declaration - No 'Option Explicit'
 Sub Legacy()
     a% = 1      ' % Integer
@@ -8,5 +11,8 @@ Sub Legacy()
     f@ = 6      ' @ Currency
     
     Debug.Print a & b & c & d & e & f
-    
 End Sub
+```
+```vba
+123456
+```
