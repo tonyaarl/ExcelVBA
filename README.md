@@ -2,7 +2,9 @@
 ## Reference Library
 ### Content
   > Syntax
+  
   > Functions
+  
   > Macros
 ### Purpose
   > Practice
