@@ -1,7 +1,7 @@
 # Microsoft Excel Visual Basic of Applications
 ## Reference Library
 
-### Contents
+### Content
   - Syntax
   - Functions
   - Macros
@@ -10,8 +10,8 @@
   - Practice
   - Reference
 
+### Note
+  - Feel Free To Fork And Adapt This Library For Your Own Use
+
 ### License
   - MIT License ([See License](LICENSE))
-
-### Note
-  - Feel Free to Adapt the Library for Your Own Projects
