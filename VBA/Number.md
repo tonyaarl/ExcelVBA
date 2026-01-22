@@ -20,7 +20,7 @@ End Function
 ```
 > ### Division
 ```vba
-Function Division(A As Integer, B As Integer) As Integer
+Function Division(A As Integer, B As Integer) As Double
     If B = 0 Then
         Division = 0
     Else
