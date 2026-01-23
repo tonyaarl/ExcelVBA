@@ -31,3 +31,21 @@ End Sub
 ```vba
 15
 ```
+```vba
+Sub ProcedureInvocation()
+    Call Foo
+    Bar
+End Sub
+
+Function Foo()
+    Debug.Print "Hello"
+End Function
+
+Function Bar()
+    Debug.Print "World"
+End Function
+```
+```vba
+Hello
+World
+```
