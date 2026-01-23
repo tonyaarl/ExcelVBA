@@ -1,4 +1,7 @@
 # Legacy
+- [Variables](#Variables)
+- [Statement](#Statement)
+- [Procedure Invocation](#Procedure-Invocation)
 ## Variables
 > ### Implicit Type Declaration Characters
 ```vba
