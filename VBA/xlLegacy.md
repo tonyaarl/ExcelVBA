@@ -31,6 +31,8 @@ End Sub
 ```vba
 15
 ```
+## Procedure Invocation
+> ### Call
 ```vba
 Sub ProcedureInvocation()
     Call Foo
