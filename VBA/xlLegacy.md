@@ -1,8 +1,8 @@
 # Legacy
 ## Variables
-> ### Type Declaration Characters
+> ### Implicit Type Declaration Characters
 ```vba
-Sub Legacy()    ' Implicit Declaration
+Sub LegacyCharacters()
     a% = 1      ' % Integer
     b& = 2      ' & Long
     c! = 3      ' ! Single
@@ -15,4 +15,19 @@ End Sub
 ```
 ```vba
 123456
+```
+## Statement
+> ### Line Continuation
+```vba
+Sub LineContinuation()
+    Dim x As Integer
+    
+    x = 1 + 2 + 3 _
+    + 4 + 5
+    
+    Debug.Print x
+End Sub
+```
+```vba
+15
 ```
