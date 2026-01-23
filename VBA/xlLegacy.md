@@ -2,6 +2,7 @@
 - [Variables](#Variables)
 - [Statement](#Statement)
 - [Procedure Invocation](#Procedure-Invocation)
+- [Control Flow](#Control-Flow)
 ## Variables
 > ### Implicit Type Declaration Characters
 ```vba
@@ -53,4 +54,20 @@ End Function
 ```vba
 Hello
 World
+```
+## Control Flow
+> ### GoSub
+```vba
+Sub ControlFlow()
+
+    Debug.Print "Step 1"
+    GoSub MyLabel
+    Debug.Print "Step3"
+    Exit Sub
+    
+MyLabel:
+    Debug.Print "Step 2"
+    Return
+
+End Sub
 ```
