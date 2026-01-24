@@ -32,6 +32,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!TIP]
+> This is a Tip
 - [Reference](#Reference)
 ---
 ## Section 2
@@ -45,6 +47,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!IMPORTANT]
+> This is Important
 - [Reference](#Reference)
 > ### Subsection 2.2
 ```vba
@@ -56,6 +60,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!WARNING]
+> This is a Warning
 - [Reference](#Reference)
 ## Section 3
 > ### Subsection 3.1
@@ -68,6 +74,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!CAUTION]
+> This is a Caution
 - [Reference](#Reference)
 > ### Subsection 3.2
 ```vba
@@ -79,15 +87,6 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!NOTE]
+> This is a Note
 - [Reference](#Reference)
-> [!TIP]
-> This is a Tip
-
-> [!IMPORTANT]
-> This is Important
-
-> [!WARNING]
-> This is a Warning
-
-> [!CAUTION]
-> This is a Caution
