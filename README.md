@@ -14,3 +14,7 @@ Reference Library
 &nbsp;
 > [!NOTE]
 > Feel Free To Fork
+> **Acknowledgements**
+> *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)* [ISBN-13: 978-0-13-752152-4] for guidance and reference
+> *Google* for troubleshooting suggestions and real-world examples
+> *ChatGPT* to assist with terminology, phrasing, and conceptual clarity
