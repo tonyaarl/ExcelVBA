@@ -2,8 +2,8 @@
 ## Content
 ### 📐 [Syntax](VBA/xlSyntax.md)</br>
 ### 🔧 [Functions](VBA/Function.md)</br>
-## Purpose
 ### ⚙️ [Macros](VBA/Macro.md)
+## Purpose
 ### 📝 [Practice](Style%20Guideline.md)
 ## License
 ### ⚖️ [MIT License](LICENSE)
