@@ -5,9 +5,11 @@
   - [Overview](#Repository)
   - [Read Me](README.md)
 - [VBA](VBA)
+## Custom
   - [Number](VBA/Number.md)
   - [String](VBA/String.md)
   - [Array](VBA/Array.md)
-  - [Debug](VBA/xlDebug.d)
+## Native
+  - [Debug](VBA/xlDebug.md)
   - [Legacy](VBA/xlLegacy.md)
   - [Syntax](VBA/xlSyntax.md)
