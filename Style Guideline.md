@@ -34,9 +34,9 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!NOTE]
 > This is a Note
-
+&nbsp;
 ---
-
+&nbsp;
 ## Section 2
 > ### Subsection 2.1
 ```vba
@@ -63,9 +63,9 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!IMPORTANT]
 > This is Important
-
+&nbsp;
 ---
-
+&nbsp;
 ## Section 3
 > ### Subsection 3.1
 ```vba
