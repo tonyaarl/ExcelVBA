@@ -1,6 +1,6 @@
-# "# Main Title"
+# Main Title
 
-- Table of Contents
+- [Section][#Section]
 
 ## Section
 ### Subsection
