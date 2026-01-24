@@ -52,5 +52,8 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
-
-<a name="Main Title"></a>
+[!NOTE]
+[!TIP]
+[!IMPORTANT]
+[!WARNING]
+[!CAUTION]
