@@ -20,6 +20,6 @@ Reference Library
 > 
 > *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)* [ISBN-13: 978-0-13-752152-4] for expert guidance and reference
 > 
-> *Google* for troubleshooting suggestions and real-world examples
+> *Google* for troubleshooting suggestions, consensus and real-world examples
 > 
 > *ChatGPT* to assist with terminology, phrasing, and conceptual clarity
