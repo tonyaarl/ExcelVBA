@@ -40,7 +40,7 @@ Sub Define()
     m = "He"
     n = "ll"
     o = "o"
-    w = "world"
+    w = "World!"
 
     Debug.Print a + b + c
     Debug.Print d, e, f
@@ -51,7 +51,7 @@ End Sub
 ```vba
  6 
 True          True          False
-Hello world
+Hello World!
 ```
 - Disabled By: [Option Explicit](xlSyntax.md#Force-Variable-Declaration)
 ## Statement
