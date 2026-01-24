@@ -18,8 +18,8 @@
 >[!IMPORTANT]
 > **Acknowledgements**
 > 
-> *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)* [ISBN-13: 978-0-13-752152-4] for expert guidance and reference
+> *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)* [ISBN-13: 978-0-13-752152-4] for Expert Guidance and Reference
 > 
-> *Google* for troubleshooting suggestions, consensus and real-world examples
+> *Google* for Troubleshooting, Suggestions, Consensus and Real-World Examples
 > 
-> *ChatGPT* to assist with terminology, phrasing, and conceptual clarity
+> *ChatGPT* to Assist with Terminology, Phrasing, and Conceptual Clarity
