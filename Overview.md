@@ -1,6 +1,6 @@
 # Repository
 - [Root](./)
-  - [.gitignore](gitignore)
+  - [gitignore](.gitignore)
   - [License](LICENSE)
   - [Overview](#Repository)
   - [ReadMe](README.md)
