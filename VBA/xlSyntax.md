@@ -1,7 +1,7 @@
 # Syntax
 ## Allowed Identifiers
 > ### Characters
-| Uppercase | Lowercase |  Numbers  |  Special  |
+| Uppercase | Lowercase |  Number   |  Special  |
 |:---------:|:---------:|:---------:|:---------:|
 |     A     |     a     |     0     |     _     |
 |     B     |     b     |     1     |           |
