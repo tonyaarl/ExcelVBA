@@ -1,7 +1,7 @@
 # Main Title
 
 - [Section](#Section)
-    -[Subsection](#Subsection-with-Blockquote-Marker)
+    - [Subsection](#Subsection-with-Blockquote-Marker)
 
 ## Section
 > ### Subsection with Blockquote Marker
