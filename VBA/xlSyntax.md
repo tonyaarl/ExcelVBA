@@ -2,7 +2,7 @@
 ## Allowed Identifiers
 > ### Characters
 | Uppercase | Lowercase | Special |
-|-----------|-----------|---------|
+|:---------:|:---------:|:-------:|
 |A|a|_|
 ## Module Directives
 > ### Force Variable Declaration
