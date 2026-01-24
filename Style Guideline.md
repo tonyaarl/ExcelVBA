@@ -1,4 +1,4 @@
-# __Main Title__
+# Main Title
 - [Section 1](#Section-1)
     - [Subsection 1.1](#Subsection-11)
     - [Subsection 1.2](#Subsection-22)
@@ -52,3 +52,5 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+
+some text<sub>more text</sub>
