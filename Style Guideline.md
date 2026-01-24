@@ -52,8 +52,8 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
-[!NOTE]
-[!TIP]
-[!IMPORTANT]
-[!WARNING]
-[!CAUTION]
+> [!NOTE]
+> [!TIP]
+> [!IMPORTANT]
+> [!WARNING]
+> [!CAUTION]
