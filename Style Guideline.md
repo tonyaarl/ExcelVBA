@@ -67,6 +67,6 @@ Output
 > [!CAUTION]
 > This is a Caution
 
-[^1] A Reference
-[^2] Another Reference
+[^1]: A Reference
+[^2]: Another Reference
 
