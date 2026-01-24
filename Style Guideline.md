@@ -36,6 +36,7 @@ Output
 > This is a Note
 
 ---
+
 ## Section 2
 > ### Subsection 2.1
 ```vba
@@ -62,6 +63,8 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!IMPORTANT]
 > This is Important
+
+---
 
 ## Section 3
 > ### Subsection 3.1
