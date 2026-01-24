@@ -29,6 +29,23 @@
 |     X     |     x     |           |           |
 |     Y     |     y     |           |           |
 |     Z     |     z     |           |           |
+## Syntax Tokens
+> ### Symbols
+| Operator  | Delimiter | Grouping  |  Member Access |
+|:---------:|:---------:|:---------:|:--------------:|
+|     +     |     ,     |    ( )    |       .        |
+|     -     |     :     |    { }    |
+|     *     |     ;     |
+|     /     |
+|     \     |
+|     ^     |
+|     &     |
+|     =     |
+|     <>    |
+|     <     |
+|     <=    |
+|     >     |
+|     >=    |
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
