@@ -1,10 +1,10 @@
 # Main Title
 - [Table of Contents: Section 1](#Section-1)
-    - [Table of Contents: Subsection 1.1](#Subsection-1.1)
-    - [Table of Contents: Subsection 1.2](#Subsection-2.2)
+    - [Table of Contents: Subsection 1.1](#Subsection-11)
+    - [Table of Contents: Subsection 1.2](#Subsection-22)
 - [Table of Contents: Section 2](#Section-2)
-    - [Table of Contents: Subsection 2.1](#Subsection-2.1)
-    - [Table of Contents: Subsection 2.2](#Subsection-2.2)
+    - [Table of Contents: Subsection 2.1](#Subsection-21)
+    - [Table of Contents: Subsection 2.2](#Subsection-22)
 ## Section 1
 > ### Subsection 1.1
 ```vba
