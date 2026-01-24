@@ -1,5 +1,4 @@
-# Microsoft Excel Visual Basic for Applications
-# Reference Library
+# Microsoft Excel Visual Basic for Applications Reference Library
 # 📐 [Syntax](VBA/xlSyntax.md)</br>
 # 🔧 [Functions](VBA/Function.md)</br>
 # ⚙️ [Macros](VBA/Macro.md)
