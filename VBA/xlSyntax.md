@@ -1,9 +1,10 @@
 # Syntax
 ## Allowed Identifiers
 > ### Characters
-| Uppercase | Lowercase | Special |
-|:---------:|:---------:|:-------:|
-|A|a|_|
+| Uppercase | Lowercase |  Special  |
+|:---------:|:---------:|:---------:|
+|     A     |     a     |     _     |
+|     A     |     a     |(Underscore)|
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
