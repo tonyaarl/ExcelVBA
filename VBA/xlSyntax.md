@@ -3,7 +3,7 @@
 > ### Characters
 | Uppercase | Lowercase | Special |
 |-----------|-----------|---------|
-|     A     |     a     |    _    |
+|     A     |     a     |_ (Underscore)|
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
