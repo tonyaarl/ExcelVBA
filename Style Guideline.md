@@ -34,7 +34,7 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!NOTE]
 > This is a Note
----
+## ---
 ## Section 2
 > ### Subsection 2.1
 ```vba
