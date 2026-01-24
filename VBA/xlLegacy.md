@@ -23,20 +23,37 @@ End Sub
 - Disabled By: [Option Explicit](xlSyntax.md#Force-Variable-Declaration)
 > ### Implicit Module Declaration Statement
 ```vba
-Sub LegacyCharacters()
-    a% = 1      ' % Integer
-    b& = 2      ' & Long
-    c! = 3      ' ! Single
-    d# = 4      ' # Double
-    e$ = "5"    ' $ String
-    f@ = 6      ' @ Currency
+DefInt A-C
+DefBool D-F
+DefStr M-O, W
+
+Sub Define()
+
+    a = 1
+    b = 2
+    c = 3
     
-    Debug.Print a & b & c & d & e & f
+    d = True
+    e = True
+    f = False
+    
+    m = "He"
+    n = "ll"
+    o = "o"
+    w = "world"
+
+    Debug.Print a + b + c
+    Debug.Print d, e, f
+    Debug.Print m & n & o & " " & w
+
 End Sub
 ```
 ```vba
-123456
+ 6 
+True          True          False
+Hello world
 ```
+- Disabled By: [Option Explicit](xlSyntax.md#Force-Variable-Declaration)
 ## Statement
 > ### Line Continuation
 ```vba
