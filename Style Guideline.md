@@ -1,10 +1,10 @@
 # Main Title
 
 - [Section](#Section)
-    -[Subsection](#Subsection)
+    -[Subsection](#Subsection-with-Blockquote-Marker)
 
 ## Section
-### Subsection
+> ### Subsection with Blockquote Marker
 ```vba
 Code
 ```
