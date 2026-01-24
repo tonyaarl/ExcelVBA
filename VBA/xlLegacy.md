@@ -5,7 +5,7 @@
 - [Control Flow](#Control-Flow)
 ## Variables
 > ### Implicit Type Declaration Characters
-> #### [Remark 1](#Remark-1)
+[Remark](#Remark-1)
 ```vba
 Sub LegacyCharacters()
     a% = 1      ' % Integer
