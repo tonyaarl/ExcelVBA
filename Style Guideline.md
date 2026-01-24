@@ -86,5 +86,5 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
-> > [!CAUTION]
+> [!CAUTION]
 > Be Extremely Careful!
