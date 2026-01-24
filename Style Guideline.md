@@ -9,7 +9,6 @@ Code
 ```
 Output
 ```
-Optional: Table
 | Column 1 | Column 2 |
 |----------|----------|
 | Value 1  | Value 2  |
