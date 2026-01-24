@@ -57,20 +57,15 @@ Output
 - [Reference](#Reference)
 Footnote 2.2[^4]
 > [!NOTE]
-> This is a Note
-
+> This is a Note</br>
 > [!TIP]
-> This is a Tip
-
+> This is a Tip</br>
 > [!IMPORTANT]
-> This is Important
-
+> This is Important</br>
 > [!WARNING]
-> This is a Warning
-
+> This is a Warning</br>
 > [!CAUTION]
-> This is a Caution
-
+> This is a Caution</br>
 [^1]: Subsection 1.1 Footnote
 [^2]: Subsection 1.2 Footnote
 [^3]: Subsection 2.1 Footnote
