@@ -6,7 +6,7 @@
   > [Macros](VBA/Macro.md)
 ### Purpose
   > [Practice](Style%20Guideline.md)
-### Note
-  > Feel Free To Fork
 ### License
   > [MIT License](LICENSE)
+> [!NOTE]
+> Feel Free To Fork
