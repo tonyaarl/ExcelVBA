@@ -16,7 +16,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
-- [Reference](#Reference)</br>
+- [Reference](#Reference)
+
 Footnote 1.1[^1]
 > ### Subsection 1.2
 ```vba
@@ -29,6 +30,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+
 Footnote 1.2[^2]
 ---
 ## Section 2
@@ -43,6 +45,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+
 Footnote 2.1[^3]
 > ### Subsection 2.2
 ```vba
@@ -55,17 +58,23 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+
 Footnote 2.2[^4]
 > [!NOTE]
-> This is a Note</br>
+> This is a Note
+
 > [!TIP]
-> This is a Tip</br>
+> This is a Tip
+
 > [!IMPORTANT]
-> This is Important</br>
+> This is Important
+
 > [!WARNING]
-> This is a Warning</br>
+> This is a Warning
+
 > [!CAUTION]
-> This is a Caution</br>
+> This is a Caution
+
 [^1]: Subsection 1.1 Footnote
 [^2]: Subsection 1.2 Footnote
 [^3]: Subsection 2.1 Footnote
