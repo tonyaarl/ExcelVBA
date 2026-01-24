@@ -1,5 +1,5 @@
 # Syntax
-## Allowed Identifiers
+## Identifiers
 > ### Characters
 | Uppercase | Lowercase | Number | Identifier |
 |:---------:|:---------:|:------:|:----------:|
@@ -46,6 +46,8 @@
 | <=       |               |         |            |           |          |           |         |
 | >        |               |         |            |           |          |           |         |
 | >=       |               |         |            |           |          |           |         |
+> [!NOTE]
+> Additional [Type Declaration Characters](VBA/xlLegacy#Implicit-Type-Declaration-Characters)
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
