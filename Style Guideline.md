@@ -1,4 +1,4 @@
-# **Main Title**
+# __Main Title__
 - [Section 1](#Section-1)
     - [Subsection 1.1](#Subsection-11)
     - [Subsection 1.2](#Subsection-22)
