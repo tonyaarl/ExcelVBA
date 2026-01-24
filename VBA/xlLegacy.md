@@ -1,5 +1,7 @@
 # Legacy
 - [Variables](#Variables)
+    - [Implicit Type Declaration Characters](#Implicit-Type-Declaration-Characters)
+    - [Implicit Module Declaration Statement](#Implicit-Module-Declaration-Statement)
 - [Statement](#Statement)
 - [Procedure Invocation](#Procedure-Invocation)
 - [Control Flow](#Control-Flow)
