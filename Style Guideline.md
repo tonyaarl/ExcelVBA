@@ -20,7 +20,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 > Reference</br>
-> This is a [Reference](#Reference)
+> [Link](#Reference)
 ##
 > ### Subsection 1.2
 ```vba
