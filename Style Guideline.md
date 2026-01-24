@@ -7,7 +7,6 @@
     - [Subsection 2.2](#Subsection-22)
 ## Section 1
 > ### Subsection 1.1
-This is just a test[^1]
 ```vba
 Code
 ```
@@ -18,6 +17,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+Footnote 1.1[^1]
 > ### Subsection 1.2
 ```vba
 Code
@@ -29,6 +29,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+Footnote 1.2[^2]
 ---
 ## Section 2
 > ### Subsection 2.1
@@ -42,6 +43,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+Footnote 2.1[^3]
 > ### Subsection 2.2
 ```vba
 Code
@@ -53,6 +55,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
+Footnote 2.2[^4]
 > [!NOTE]
 > This is a Note
 
@@ -68,6 +71,7 @@ Output
 > [!CAUTION]
 > This is a Caution
 
-[^1]: A Reference
-[^2]: Another Reference
-
+[^1]: Subsection 1.1 Footnote
+[^2]: Subsection 1.2 Footnote
+[^3]: Subsection 2.1 Footnote
+[^4]: Subsection 2.2 Footnote
