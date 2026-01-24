@@ -1,51 +1,51 @@
 # Syntax
 ## Allowed Identifiers
 > ### Characters
-| Uppercase | Lowercase |  Number   |  Special  |
-|:---------:|:---------:|:---------:|:---------:|
-|     A     |     a     |     0     |     _     |
-|     B     |     b     |     1     |           |
-|     C     |     c     |     2     |           |
-|     D     |     d     |     3     |           |
-|     E     |     e     |     4     |           |
-|     F     |     f     |     5     |           |
-|     G     |     g     |     6     |           |
-|     H     |     h     |     7     |           |
-|     I     |     i     |     8     |           |
-|     J     |     j     |     9     |           |
-|     K     |     k     |           |           |
-|     L     |     l     |           |           |
-|     M     |     m     |           |           |
-|     N     |     n     |           |           |
-|     O     |     o     |           |           |
-|     P     |     p     |           |           |
-|     Q     |     q     |           |           |
-|     R     |     r     |           |           |
-|     S     |     s     |           |           |
-|     T     |     t     |           |           |
-|     U     |     u     |           |           |
-|     V     |     v     |           |           |
-|     W     |     w     |           |           |
-|     X     |     x     |           |           |
-|     Y     |     y     |           |           |
-|     Z     |     z     |           |           |
+| Uppercase | Lowercase | Number | Identifier |
+|:---------:|:---------:|:------:|:----------:|
+|A          |a          |0       |_           |
+|B          |b          |1       |            |
+|C          |c          |2       |            |
+|D          |d          |3       |            |
+|E          |e          |4       |            |
+|F          |f          |5       |            |
+|G          |g          |6       |            |
+|H          |h          |7       |            |
+|I          |i          |8       |            |
+|J          |j          |9       |            |
+|K          |k          |        |            |
+|L          |l          |        |            |
+|M          |m          |        |            |
+|N          |n          |        |            |
+|O          |o          |        |            |
+|P          |p          |        |            |
+|Q          |q          |        |            |
+|R          |r          |        |            |
+|S          |s          |        |            |
+|T          |t          |        |            |
+|U          |u          |        |            |
+|V          |v          |        |            |
+|W          |w          |        |            |
+|X          |x          |        |            |
+|Y          |y          |        |            |
+|Z          |z          |        |            |
 ## Syntax Tokens
 > ### Symbols
-| Operator  | Delimiter | Grouping  |  Member Access |
-|:---------:|:---------:|:---------:|:--------------:|
-|     +     |     ,     |    ( )    |       .        |
-|     -     |     :     |    { }    |
-|     *     |     ;     |
-|     /     |
-|     \     |
-|     ^     |
-|     &     |
-|     =     |
-|     <>    |
-|     <     |
-|     <=    |
-|     >     |
-|     >=    |
+| Operator | Separator | Literal | Delimiter | Member Access | Comment |
+|:--------:|:---------:|:-------:|:---------:|:-------------:|:-------:|
+| +        | ,         | "       | [ ]       | .             | '       |
+| -        | :         | #       |           | !             |         |
+| *        | ;         |         |           |               |         |
+| /        |           |         |           |               |         |
+| \        |           |         |           |               |         |
+| ^        |           |         |           |               |         |
+| &        |           |         |           |               |         |
+| =        |           |         |           |               |         |
+| <>       |           |         |           |               |         |
+| <        |           |         |           |               |         |
+| <=       |           |         |           |               |         |
+| >        |           |         |           |               |         |
+| >=       |           |         |           |               |         |
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
