@@ -53,6 +53,4 @@ Output
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
 
-<a name="Test Anchor"></a>
-
-some text<sub>more text</sub>
+<a name="Main Title"></a>
