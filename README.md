@@ -1,4 +1,5 @@
-# Microsoft Excel Visual Basic for Applications Reference Library
+# Microsoft Excel Visual Basic for Applications
+## Reference Library
 &nbsp;
 ## Content
 ### 📐 [Syntax](VBA/xlSyntax.md)</br>
