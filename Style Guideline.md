@@ -1,6 +1,10 @@
 # Main Title
-- [Table of Contents: Section](#Section)
-    - [Table of Contents: Subsection](#Subsection-with-Blockquote-Marker)
+- [Table of Contents: Section 1](#Section-1)
+    - [Table of Contents: Subsection 1](#Subsection-1)
+    - [Table of Contents: Subsection 2](#Subsection-2)
+- [Table of Contents: Section 2](#Section-2)
+    - [Table of Contents: Subsection 1](#Subsection-1)
+    - [Table of Contents: Subsection 2](#Subsection-2)
 ## Section 1
 > ### Subsection 1
 ```vba
