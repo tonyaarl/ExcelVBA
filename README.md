@@ -1,7 +1,7 @@
 # Microsoft Excel Visual Basic for Applications
 ## Reference Library
 ### Content
-  > [Syntax](#VBA/xlSyntax.md)
+  > [Syntax](#VBA/xlSyntax.md)</br>
   > [Functions](#VBA/Function.md)
   > [Macros](#VBA/Macro.md)
 ### Purpose
