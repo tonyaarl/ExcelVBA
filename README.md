@@ -1,11 +1,11 @@
 # Microsoft Excel Visual Basic for Applications
 ## Reference Library
 ### Content
-  > [Syntax](#VBA/xlSyntax.md)</br>
-  > [Functions](#VBA/Function.md)</br>
-  > [Macros](#VBA/Macro.md)
+  > [Syntax](VBA/xlSyntax.md)</br>
+  > [Functions](VBA/Function.md)</br>
+  > [Macros](VBA/Macro.md)
 ### Purpose
-  > [Practice](#Excel/Style-Guideline.md)
+  > [Practice](Style-Guideline.md)
 ### Note
   > Feel Free To Fork
 ### License
