@@ -47,7 +47,7 @@
 | >        |               |         |            |           |          |           |         |
 | >=       |               |         |            |           |          |           |         |
 > [!NOTE]
-> Additional [Type Declaration Characters](xlLegacy.md#Implicit-Type-Declaration-Characters-1)
+> Additional [Type Declaration Characters](xlLegacy.md#implicit-type-declaration-characters)
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
