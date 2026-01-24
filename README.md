@@ -3,8 +3,8 @@
 &nbsp;
 ### Content
 ### 📐 [Syntax](VBA/xlSyntax.md)</br>
-### 🔧 [Functions](VBA/Function.md)</br>
-### ⚙️ [Macros](VBA/Macro.md)
+### 🔧 [Functions](Overview.md)</br>
+### ⚙️ [Macros](Overview.md)
 &nbsp;
 ### Purpose
 ### 📝 [Practice](Style%20Guideline.md)
