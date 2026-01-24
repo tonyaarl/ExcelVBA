@@ -2,7 +2,7 @@
 ## Reference Library
 ### Content
   > [Syntax](#VBA/xlSyntax.md)</br>
-  > [Functions](#VBA/Function.md)
+  > [Functions](#VBA/Function.md)</br>
   > [Macros](#VBA/Macro.md)
 ### Purpose
   > [Practice](#Style-Guideline.md)
