@@ -20,7 +20,7 @@ End Sub
 ```vba
 123456
 ```
-- Disabled By: "Option Explicit"
+- Disabled By: "[Option Explicit](xlSyntax.md#Force-Variable-Declaration")
 > ### Implicit Module Declaration Statement
 ```vba
 Sub LegacyCharacters()
