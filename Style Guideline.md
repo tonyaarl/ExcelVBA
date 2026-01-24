@@ -2,7 +2,7 @@
 - [Table of Contents: Section](#Section)
     - [Table of Contents: Subsection](#Subsection-with-Blockquote-Marker)
 ## Section
-> ### Subsection with Blockquote Marker
+> ### Subsection
 ```vba
 Code
 ```
