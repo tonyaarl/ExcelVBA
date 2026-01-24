@@ -4,7 +4,7 @@
 | Uppercase | Lowercase |  Special  |
 |:---------:|:---------:|:---------:|
 |     A     |     a     |     _     |
-|     A     |     a     |(Underscore)|
+|     A     |     a     |
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
