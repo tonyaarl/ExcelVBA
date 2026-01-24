@@ -22,7 +22,9 @@ End Sub
 ```vba
 123456
 ```
-- Disabled By: [Option Explicit](xlSyntax.md#Force-Variable-Declaration)
+> [!IMPORTANT]
+> Including [Option Explicit](xlSyntax.md#Force-Variable-Declaration) Will Cause Compile Error!
+
 > ### Implicit Module Declaration Statement
 ```vba
 DefInt A-C
@@ -55,7 +57,9 @@ End Sub
 True          True          False
 Hello World!
 ```
-- Disabled By: [Option Explicit](xlSyntax.md#Force-Variable-Declaration)
+> [!IMPORTANT]
+> Including [Option Explicit](xlSyntax.md#Force-Variable-Declaration) Will Cause Compile Error!
+
 ## Statement
 > ### Line Continuation
 ```vba
