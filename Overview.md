@@ -8,8 +8,6 @@
 - [VBA](VBA)
 ## Custom
   - [Number](VBA/Number.md)
-  - [String](VBA/String.md)
-  - [Array](VBA/Array.md)
 ## Native
   - [Debug](VBA/xlDebug.md)
   - [Legacy](VBA/xlLegacy.md)
