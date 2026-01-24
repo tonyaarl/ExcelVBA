@@ -19,6 +19,7 @@ Output
 - [Reference](#Reference)
 
 Footnote 1.1[^1]
+
 > ### Subsection 1.2
 ```vba
 Code
@@ -32,6 +33,7 @@ Output
 - [Reference](#Reference)
 
 Footnote 1.2[^2]
+
 ---
 ## Section 2
 > ### Subsection 2.1
@@ -47,6 +49,7 @@ Output
 - [Reference](#Reference)
 
 Footnote 2.1[^3]
+
 > ### Subsection 2.2
 ```vba
 Code
@@ -60,6 +63,7 @@ Output
 - [Reference](#Reference)
 
 Footnote 2.2[^4]
+
 > [!NOTE]
 > This is a Note
 
