@@ -1,34 +1,34 @@
 # Syntax
 ## Allowed Identifiers
 > ### Characters
-| Uppercase | Lowercase |  Special  |
-|:---------:|:---------:|:---------:|
-|     A     |     a     |     _     |
-|     B     |     b     |           |
-|     C     |     c     |           |
-|     D     |     d     |           |
-|     E     |     e     |           |
-|     F     |     f     |           |
-|     G     |     g     |           |
-|     H     |     h     |           |
-|     I     |     i     |           |
-|     J     |     j     |           |
-|     K     |     k     |           |
-|     L     |     l     |           |
-|     M     |     m     |           |
-|     N     |     n     |           |
-|     O     |     o     |           |
-|     P     |     p     |           |
-|     Q     |     q     |           |
-|     R     |     r     |           |
-|     S     |     s     |           |
-|     T     |     t     |           |
-|     U     |     u     |           |
-|     V     |     v     |           |
-|     W     |     w     |           |
-|     X     |     x     |           |
-|     Y     |     y     |           |
-|     Z     |     z     |           |
+| Uppercase | Lowercase |  Numbers  |  Special  |
+|:---------:|:---------:|:---------:|:---------:|
+|     A     |     a     |     0     |     _     |
+|     B     |     b     |     1     |           |
+|     C     |     c     |     2     |           |
+|     D     |     d     |     3     |           |
+|     E     |     e     |     4     |           |
+|     F     |     f     |     5     |           |
+|     G     |     g     |     6     |           |
+|     H     |     h     |     7     |           |
+|     I     |     i     |     8     |           |
+|     J     |     j     |     9     |           |
+|     K     |     k     |           |           |
+|     L     |     l     |           |           |
+|     M     |     m     |           |           |
+|     N     |     n     |           |           |
+|     O     |     o     |           |           |
+|     P     |     p     |           |           |
+|     Q     |     q     |           |           |
+|     R     |     r     |           |           |
+|     S     |     s     |           |           |
+|     T     |     t     |           |           |
+|     U     |     u     |           |           |
+|     V     |     v     |           |           |
+|     W     |     w     |           |           |
+|     X     |     x     |           |           |
+|     Y     |     y     |           |           |
+|     Z     |     z     |           |           |
 ## Module Directives
 > ### Force Variable Declaration
 ```vba
