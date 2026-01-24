@@ -1,15 +1,15 @@
 # Microsoft Excel Visual Basic for Applications
 Reference Library
 &nbsp;
-## Content
+### Content
 ### 📐 [Syntax](VBA/xlSyntax.md)</br>
 ### 🔧 [Functions](VBA/Function.md)</br>
 ### ⚙️ [Macros](VBA/Macro.md)
 &nbsp;
-## Purpose
+### Purpose
 ### 📝 [Practice](Style%20Guideline.md)
 &nbsp;
-## License
+### License
 ### ⚖️ [MIT License](LICENSE)
 &nbsp;
 > [!NOTE]
