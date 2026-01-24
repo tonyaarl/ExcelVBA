@@ -7,6 +7,7 @@
 ### Purpose
   > [Practice](Style%20Guideline.md)
 ### License
-  > [MIT License](LICENSE)</br>
+  > [MIT License](LICENSE)
+
 > [!NOTE]
 > Feel Free To Fork
