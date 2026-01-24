@@ -20,7 +20,7 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 > [!NOTE]
-> Notes and Reference: [Reference](#Reference)
+> [Reference](#Reference)
 
 > ### Subsection 1.2
 ```vba
