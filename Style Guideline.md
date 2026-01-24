@@ -19,6 +19,8 @@ Output
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
+> [!NOTE]
+> This is a Note
 - [Reference](#Reference)
 > ### Subsection 1.2
 ```vba
@@ -78,9 +80,6 @@ Output
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 - [Reference](#Reference)
-> [!NOTE]
-> This is a Note
-
 > [!TIP]
 > This is a Tip
 
