@@ -5,7 +5,7 @@
 - [Control Flow](#Control-Flow)
 ## Variables
 > ### Implicit Type Declaration Characters
-> #### See Additional Information*
+> #### [Remark 1](#Remark-1)
 ```vba
 Sub LegacyCharacters()
     a% = 1      ' % Integer
@@ -88,3 +88,6 @@ MyLabel:
 
 End Sub
 ```
+## Remark 1
+Disabled By: "Option Explicit"
+
