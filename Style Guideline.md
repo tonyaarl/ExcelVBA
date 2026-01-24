@@ -21,7 +21,7 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > Reference</br>
 > This is a [Reference](#Reference)
-
+##
 > ### Subsection 1.2
 ```vba
 Code
@@ -34,7 +34,7 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!NOTE]
 > This is a Note
-##
+---
 ## Section 2
 > ### Subsection 2.1
 ```vba
@@ -48,7 +48,7 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!TIP]
 > This is a Tip
-
+##
 > ### Subsection 2.2
 ```vba
 Code
@@ -75,7 +75,7 @@ Output
 | Value 1  | Value 2  | Value 3  |
 > [!CAUTION]
 > This is a Caution
-
+##
 > ### Subsection 3.2
 ```vba
 Code
