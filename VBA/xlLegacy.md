@@ -4,7 +4,7 @@
 - [Procedure Invocation](#Procedure-Invocation)
 - [Control Flow](#Control-Flow)
 ## Variables
-> ### Implicit Type Declaration Characters [Remark 1](#Remark-1)
+> ### [Implicit Type Declaration Characters](#Implicit-Type-Declaration-Characters)
 ```vba
 Sub LegacyCharacters()
     a% = 1      ' % Integer
@@ -87,6 +87,6 @@ MyLabel:
 
 End Sub
 ```
-## Remark 1
+## Implicit Type Declaration Characters
 Disabled By: "Option Explicit"
 
