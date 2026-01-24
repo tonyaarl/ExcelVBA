@@ -102,7 +102,7 @@ Sub ControlFlow()
 
     Debug.Print "Step 1"
     GoSub MyLabel
-    Debug.Print "Step3"
+    Debug.Print "Step 3"
     Exit Sub
     
 MyLabel:
