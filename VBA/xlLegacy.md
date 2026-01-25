@@ -6,7 +6,7 @@
 - [Procedure Invocation](#Procedure-Invocation)
 - [Control Flow](#Control-Flow)
 ## Variables
-> ### Implicit Type Declaration Characters <a name="Implicit-Type-Declaration-Characters-1"></a>
+> ### Implicit Type Declaration Characters <a id="Implicit-Type-Declaration-Characters-1"></a>
 ```vba
 Sub LegacyCharacters()
     a% = 1      ' % Integer
