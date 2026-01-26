@@ -11,6 +11,6 @@
   - [Legacy](VBA/Legacy.md)
   - [Syntax](VBA/Syntax.md)
 ##
-- [First Title 1](VBA/AnchorTest.md#Title1)
-- [Second Title 1](VBA/AnchorTest.md#Title1-1)
-- [Thord Title 1](VBA/AnchorTest.md#Title1-2)
+- [First Title 1](VBA/AnchorTest.md#Title-1)
+- [Second Title 1](VBA/AnchorTest.md#Title-1-1)
+- [Third Title 1](VBA/AnchorTest.md#Title-1-2)
