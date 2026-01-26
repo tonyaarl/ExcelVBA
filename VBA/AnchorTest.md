@@ -1,4 +1,4 @@
-# Title 1
+# Title 1 <!-- a -->
 ^^^^^^^^^^^ First
 ##
 2
@@ -62,7 +62,7 @@
 1
 ##
 VVVVVVV Second
-# Title 1
+# Title 1 <!-- b -->
 ##
 3
 ##
@@ -105,4 +105,4 @@ VVVVVVV Second
 1
 ##
 VVVVVVV Third
-# Title 1
+# Title 1 <!-- c -->
