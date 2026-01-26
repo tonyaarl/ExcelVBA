@@ -12,5 +12,5 @@
   - [Syntax](VBA/Syntax.md)
 ##
 - [First Title 1](VBA/AnchorTest.md#title-1)
-- [Second Title 1](https://github.com/tonyaarl/Excel/blob/main/VBA/AnchorTest.md#title-2)
-- [Third Title 1](VBA/AnchorTest.md#title-3)
+- [Second Title 1](VBA/AnchorTest.md#title-1-1)
+- [Third Title 1](VBA/AnchorTest.md#title-1-2)
