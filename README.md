@@ -12,7 +12,10 @@
 ### ⚖️ [MIT License](LICENSE)
 ##
 > [!NOTE]
+> **Modification**
 > Feel Free To Fork
+> **Navigation**
+> CTRL+Left Click / CMD+Left Click to Ensure Links Scroll to the Correct Section
 
 >[!IMPORTANT]
 > **Acknowledgements**
