@@ -15,7 +15,8 @@
 > **Modification**
 > 
 > Feel Free To Fork
-> 
+
+> [!TIP]
 > **Navigation**
 > 
 > CTRL+Left Click / CMD+Left Click to Ensure Links Scroll to the Correct Section
