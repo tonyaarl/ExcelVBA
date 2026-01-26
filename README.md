@@ -19,7 +19,7 @@
 > [!TIP]
 > **Navigation**
 > 
-> CTRL+Left Click / CMD+Left Click Links
+> CTRL+Left Click / CMD+Left Click to Ensure Links Scroll to the Correct Section
 
 >[!IMPORTANT]
 > **Acknowledgements**
