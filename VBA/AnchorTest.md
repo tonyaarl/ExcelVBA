@@ -1,4 +1,4 @@
-# <a name=test123>Title 1</a>
+# Title 1
 ^^^^^^^^^^^ First
 ##
 2
@@ -62,7 +62,7 @@
 1
 ##
 VVVVVVV Second
-# Title 1
+# Title 2
 ##
 3
 ##
@@ -105,4 +105,4 @@ VVVVVVV Second
 1
 ##
 VVVVVVV Third
-# Title 1
+# Title 3
