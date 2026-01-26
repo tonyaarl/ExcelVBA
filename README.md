@@ -1,17 +1,16 @@
 # Microsoft Excel Visual Basic for Applications
 ## Reference Library
-&nbsp;
 ### Content
 ### 📐 [Syntax](VBA/Syntax.md)</br>
 ### 🔧 [Functions](Overview.md)</br>
 ### ⚙️ [Macros](Overview.md)
-&nbsp;
+##
 ### Purpose
 ### 📝 [Practice](Style%20Guideline.md)
-&nbsp;
+##
 ### License
 ### ⚖️ [MIT License](LICENSE)
-&nbsp;
+##
 > [!NOTE]
 > Feel Free To Fork
 
