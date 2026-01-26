@@ -7,6 +7,6 @@
 ##
 - [VBA](VBA)
   - [Number](VBA/Number.md)
-  - [Debug](VBA/xlDebug.md)
-  - [Legacy](VBA/xlLegacy.md)
-  - [Syntax](VBA/xlSyntax.md)
+  - [Debug](VBA/Debug.md)
+  - [Legacy](VBA/Legacy.md)
+  - [Syntax](VBA/Syntax.md)
