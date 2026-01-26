@@ -2,7 +2,7 @@
 ## Reference Library
 &nbsp;
 ### Content
-### 📐 [Syntax](VBA/xlSyntax.md)</br>
+### 📐 [Syntax](VBA/Syntax.md)</br>
 ### 🔧 [Functions](Overview.md)</br>
 ### ⚙️ [Macros](Overview.md)
 &nbsp;
