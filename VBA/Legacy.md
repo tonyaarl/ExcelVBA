@@ -23,7 +23,7 @@ End Sub
 123456
 ```
 > [!IMPORTANT]
-> Including [Option Explicit](xlSyntax.md#Force-Variable-Declaration) Will Cause Compile Error!
+> Including [Option Explicit](Syntax.md#module-directives) Will Cause Compile Error!
 
 > ### Implicit Module Declaration Statement
 ```vba
