@@ -58,7 +58,7 @@ True          True          False
 Hello World!
 ```
 > [!IMPORTANT]
-> Including [Option Explicit](xlSyntax.md#Force-Variable-Declaration) Will Cause Compile Error!
+> Including [Option Explicit](Syntax.md#module-directives) Will Cause Compile Error!
 
 ## Statement
 > ### Line Continuation
