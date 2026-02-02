@@ -50,14 +50,13 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-sequenceDiagram
-    participant User
-    participant App
-    participant API
-    User->>App: Click button
-    App->>API: Request data
-    API-->>App: JSON response
-    App-->>User: Render result
+stateDiagram-v2
+    [*] --> Idle
+    Idle --> Loading : start
+    Loading --> Success : ok
+    Loading --> Error : fail
+    Success --> Idle
+    Error --> Idle
 
 ```
 
