@@ -52,3 +52,5 @@ Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 ```mermaid
 graph TD
   A --> B
+```
+:white_check_mark:
