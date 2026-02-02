@@ -48,3 +48,6 @@ End Function
 </details>
 
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
+
+Term
+: Definition
