@@ -28,3 +28,14 @@ Function Division(A As Integer, B As Integer) As Double
     End If
 End Function
 ```
+
+<details>
+<summary>Click to see more</summary>
+
+More detailed explanation goes here.
+
+- Bullet points work
+- Markdown works
+- Multiple paragraphs work
+
+</details>
