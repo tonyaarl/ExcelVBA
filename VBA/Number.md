@@ -50,11 +50,17 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-pie
-    title Bug Distribution
-    "UI" : 40
-    "Backend" : 35
-    "Docs" : 25
+classDiagram
+    class Order {
+        +id
+        +date
+        +total()
+    }
+    class Customer {
+        +name
+        +email
+    }
+    Customer "1" --> "*" Order
 
 ```
 
