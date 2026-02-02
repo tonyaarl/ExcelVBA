@@ -11,7 +11,7 @@
 ### License
 ### :balance_scale: [MIT License](LICENSE)
 ##
-### :information_source:
+### Additional Information
 > [!NOTE]
 > **Modification**
 > 
