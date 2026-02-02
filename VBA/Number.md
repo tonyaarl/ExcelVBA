@@ -47,4 +47,4 @@ End Function
 
 </details>
 
-Press <kbd>Ctrl</kbd> + <kbd>C</kbd>
+Press <kbd>CTRL</kbd> + <kbd>C</kbd>
