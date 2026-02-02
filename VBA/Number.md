@@ -50,15 +50,11 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-mindmap
-  root((Markdown))
-    GitHub
-      Issues
-      PRs
-      Actions
-    Mermaid
-      Flowcharts
-      Diagrams
+pie
+    title Bug Distribution
+    "UI" : 40
+    "Backend" : 35
+    "Docs" : 25
 
 ```
 
