@@ -1,7 +1,7 @@
 # Microsoft Excel Visual Basic for Applications
 ## Reference Library
 ### Content
-### 📐 [Syntax](VBA/Syntax.md)</br>
+### :triangular_ruler: [Syntax](VBA/Syntax.md)</br>
 ### 🔧 [Functions](Overview.md)</br>
 ### ⚙️ [Macros](Overview.md)
 ##
