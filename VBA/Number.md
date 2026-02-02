@@ -49,5 +49,6 @@ End Function
 
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
-Term
-: Definition
+```mermaid
+graph TD
+  A --> B
