@@ -50,17 +50,14 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-classDiagram
-    class Order {
-        +id
-        +date
-        +total()
-    }
-    class Customer {
-        +name
-        +email
-    }
-    Customer "1" --> "*" Order
+gantt
+    title Project Timeline
+    dateFormat  YYYY-MM-DD
+    section Planning
+    Specs        :a1, 2026-02-01, 5d
+    Review       :after a1, 2d
+    section Build
+    Implementation :2026-02-08, 7d
 
 ```
 
