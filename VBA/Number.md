@@ -30,12 +30,19 @@ End Function
 ```
 
 <details>
-<summary>Click to see more</summary>
+<summary>Collapsible Section</summary>
 
-More detailed explanation goes here.
+Test 1 2 3
 
-- Bullet points work
-- Markdown works
-- Multiple paragraphs work
+> ### Division
+```vba
+Function Division(A As Integer, B As Integer) As Double
+    If B = 0 Then
+        Division = 0
+    Else
+        Division = A / B
+    End If
+End Function
+```
 
 </details>
