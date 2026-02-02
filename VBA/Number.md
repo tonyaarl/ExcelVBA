@@ -50,10 +50,15 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE_ITEM : contains
-    PRODUCT ||--o{ LINE_ITEM : referenced_by
+mindmap
+  root((Markdown))
+    GitHub
+      Issues
+      PRs
+      Actions
+    Mermaid
+      Flowcharts
+      Diagrams
 
 ```
 
