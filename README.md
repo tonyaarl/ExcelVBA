@@ -19,8 +19,7 @@
 > [!TIP]
 > **Navigation**
 > 
-> *CTRL+Left Click / CMD+Left Click* to Ensure Links Scroll to the Correct Section
-> <kbd>CTRL + Left Click</kbd>
+> <kbd>CTRL</kbd> + <kbd>Left Click</kbd> / <kbd>CMD</kbd> + <kbd>Left Click</kbd> to Ensure Links Scroll to the Correct Section
 
 >[!IMPORTANT]
 > **Acknowledgements**
