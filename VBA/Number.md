@@ -50,12 +50,14 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-flowchart TD
-    A[Start] --> B{Decision}
-    B -- Yes --> C[Do thing]
-    B -- No --> D[Do other thing]
-    C --> E[End]
-    D --> E
+sequenceDiagram
+    participant User
+    participant App
+    participant API
+    User->>App: Click button
+    App->>API: Request data
+    API-->>App: JSON response
+    App-->>User: Render result
 
 ```
 
