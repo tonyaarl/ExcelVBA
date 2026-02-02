@@ -2,15 +2,16 @@
 ## Reference Library
 ### Content
 ### :triangular_ruler: [Syntax](VBA/Syntax.md)</br>
-### 🔧 [Functions](Overview.md)</br>
-### ⚙️ [Macros](Overview.md)
+### :wrench: [Functions](Overview.md)</br>
+### :gear: [Macros](Overview.md)
 ##
 ### Purpose
-### 📝 [Practice](Style%20Guideline.md)
+### :memo: [Practice](Style%20Guideline.md)
 ##
 ### License
-### ⚖️ [MIT License](LICENSE)
+### :balance_scale: [MIT License](LICENSE)
 ##
+### :information_source:
 > [!NOTE]
 > **Modification**
 > 
