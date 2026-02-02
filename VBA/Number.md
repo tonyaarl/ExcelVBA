@@ -47,5 +47,4 @@ End Function
 
 </details>
 
-> **Note**
-> Important Information
+Press <kbd>Ctrl</kbd> + <kbd>C</kbd>
