@@ -50,13 +50,17 @@ End Function
 Press <kbd>CTRL</kbd> + <kbd>C</kbd>
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Idle
-    Idle --> Loading : start
-    Loading --> Success : ok
-    Loading --> Error : fail
-    Success --> Idle
-    Error --> Idle
+classDiagram
+    class Order {
+        +id
+        +date
+        +total()
+    }
+    class Customer {
+        +name
+        +email
+    }
+    Customer "1" --> "*" Order
 
 ```
 
