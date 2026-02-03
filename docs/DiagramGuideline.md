@@ -69,16 +69,6 @@ journey
     section First Login
       Tour app: 2: User
 ```
-## Requirement Diagram
-```mermaid
-requirementDiagram
-    requirement R1 {
-        id: 1
-        text: Must login
-    }
-    element System
-    R1 --> System
-```
 ## Mindmap
 ```mermaid
 mindmap
@@ -97,13 +87,4 @@ timeline
     2026-01-01 : Project Start
     2026-02-01 : First Prototype
     2026-03-01 : Beta Release
-```
-## Quadrant Chart
-```mermaid
-quadrantChart
-    title Competitor Analysis
-    x-axis Importance
-    y-axis Performance
-    "Competitor A": [4,3]
-    "Competitor B": [2,5]
 ```
