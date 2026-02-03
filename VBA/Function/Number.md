@@ -48,21 +48,3 @@ End Function
 ```
 
 </details>
-
-Press <kbd>CTRL</kbd> + <kbd>C</kbd>
-
-```mermaid
-classDiagram
-    class Order {
-        +id
-        +date
-        +total()
-    }
-    class Customer {
-        +name
-        +email
-    }
-    Customer "1" --> "*" Order
-
-```
-
