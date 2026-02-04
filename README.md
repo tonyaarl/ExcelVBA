@@ -21,6 +21,8 @@
 > **Navigation**
 > 
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
+>
+> GitHub Mermaid Diagram Rendering Unstable on Mobile
 
 >[!IMPORTANT]
 > **Acknowledgements**
