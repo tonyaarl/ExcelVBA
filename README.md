@@ -4,6 +4,7 @@
 ### :triangular_ruler: [Syntax](VBA/Syntax.md)</br>
 ### :wrench: [Functions](Overview.md)</br>
 ### :gear: [Macros](Overview.md)
+### :green_book: [Guidelines](docs)
 ##
 ### Purpose
 ### :memo: [Practice](Style%20Guideline.md)
