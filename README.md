@@ -13,7 +13,7 @@
 ##
 ### Additional Information
 > [!NOTE]
-> Fork, Clone or Download
+> Feel Free to Fork, Clone or Download
 
 > [!TIP]
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
