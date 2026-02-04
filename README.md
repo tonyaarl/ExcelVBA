@@ -18,11 +18,11 @@
 > Fork or Download
 
 > [!TIP]
-> **GitHub Viewing Experience**
+> **Viewing Experience**
 > 
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
 >
-> GitHub Mermaid Diagram Rendering Unstable on Mobile
+> Mermaid Diagram Rendering on Mobile is Unstable
 
 >[!IMPORTANT]
 > **Acknowledgements**
