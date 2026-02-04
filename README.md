@@ -13,9 +13,10 @@
 ##
 ### Additional Information
 > [!NOTE]
-> Fork or Download
+> Fork, Clone or Download
 
 > [!TIP]
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
->
+
+> [!IMPORTANT]
 > Mermaid Diagram Rendering on Mobile is Unstable
