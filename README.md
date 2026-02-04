@@ -6,9 +6,6 @@
 ### :gear: [Macros](Overview.md)
 ### :green_book: [Guidelines](docs)
 ##
-### Purpose
-### :memo: [Practice](Style%20Guideline.md)
-##
 ### License
 ### :balance_scale: [MIT License](LICENSE)
 ##
