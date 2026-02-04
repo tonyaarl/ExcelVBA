@@ -13,22 +13,9 @@
 ##
 ### Additional Information
 > [!NOTE]
-> **Repository**
-> 
 > Fork or Download
 
 > [!TIP]
-> **Viewing Experience**
-> 
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
 >
 > Mermaid Diagram Rendering on Mobile is Unstable
-
->[!IMPORTANT]
-> **Acknowledgements**
-> 
-> *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)* [ISBN-13: 978-0-13-752152-4] for Expert Guidance and Reference
-> 
-> *Google* for Troubleshooting, Suggestions, Consensus and Real-World Examples
-> 
-> *ChatGPT* to Assist with Terminology, Phrasing, and Conceptual Clarity
