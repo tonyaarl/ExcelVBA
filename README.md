@@ -18,7 +18,7 @@
 > Fork or Download
 
 > [!TIP]
-> **Navigation**
+> **GitHub Viewing Experience**
 > 
 > <kbd>CTRL</kbd><kbd>Left Click</kbd> / <kbd>CMD</kbd><kbd>Left Click</kbd> Scrolls to Correct Link Section
 >
