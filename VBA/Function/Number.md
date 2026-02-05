@@ -53,4 +53,4 @@ End Function
 ![Data Type Icon Test](../../I.png)
 
 
-This is an <img src="../../A.png" width="24" height="24" style="vertical-align: baseline;">pple
+This is an <img src="../../A.png" width="24" height="24" object-fit: contain;">pple
