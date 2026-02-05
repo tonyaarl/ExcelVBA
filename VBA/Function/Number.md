@@ -48,3 +48,6 @@ End Function
 ```
 
 </details>
+
+
+![Data Type Icon Test](i.png)
